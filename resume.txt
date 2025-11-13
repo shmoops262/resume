@@ -1,0 +1,48 @@
+ELI KLUNDER  
+Grand Rapids, Michigan  | 616-450-3655  | klundere@m su.edu  | Eli Klunder | LinkedIn   
+ 
+ 
+EDUCATION  
+Michigan State University , Bachelor of science in Information S cience , concentration in Human -Centered Technology . 
+• Relevant courses: Reasoning with Data , Information  and society, Applied Programming , Advanced Data Analysis   
+Grand Rapids C ommunity College  | Associates  
+• Spent one year at Grand Rapids Community College fulfilling my general education requirements   
+ 
+ 
+EXPERI ENCE  
+UX Developer  | DayDream Technologies | Internship , Co-op Fall 2024  
+• Built websites for lo cal businesses for low cost to help other students at MSU in need of high -quality work without 
+the high costs.  
+• Utilized JavaScript and Figma to work through website reworks and updates.  
+• Administered market and competitive analysis to further add valu e to our client ’s online presence .  
+• Incredibly fast -paced environment and having to apply myself because DayDream is a startup.  
+Student | DataFest 202 3 | Spring 202 3 
+• Utilize d Python to analyze  every pro  bono case since 2000  
+• Created a VADER sentiment analysis tool to grade over 1 million phone calls  to assess which types of pro bono 
+cases were met with a sati sfied client versus a distraught client.  
+• Won the award of  “Best Insights ” as the only freshman competing aga inst 45 juniors and seniors.  
+• 48 hour time  limit with deliverable met. I even slept in our assigned classroom to meet those large deliverables.  
+Data Anal yst | Service Express  | Internship S umme r 2023   
+• Used SQL and Microsoft Excel  to build and manage a billion -dollar  companies global data, including KPI’s, shipping 
+information, and datasets.  
+• Utilized Python to solve repet itive , daily tasks by building scripts to effectively automate tasks such a s the 
+companies’  tracking numbers.  
+• Used PowerBI to interpret  the companies’  data and visualize my finding  to build data visualizations and present 
+them to multiple company executives  
+Member | Transfer Advisory Board |  Fall 2024  
+• Arranged events for transfer students , coordinating both MSU and local community colleges to give back to the 
+community college that helped guild me to MSU.  
+• Used personal experience to link potential MSU students to the right places to make their transition as seamless  as 
+possible.  
+ 
+ 
+SKILLS  
+• Go 
+• SQL 
+• Streamlit  
+• Amazon Web Services  (Bedrock, SageMaker)  
+• GitHub  • Python  
+• JavaScript  
+• Microsoft Excel  
+• Java  
+• Data Visualization  
